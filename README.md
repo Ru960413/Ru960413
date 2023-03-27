@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Ru960413
-- 👀 I’m interested in BackEnd developement
+- 👀 I’m interested in Web FrontEnd and BackEnd developement
 - 🌱 I’m currently learning SQL, Python, JavaScript, CSS
 - 💞️ I’m looking to collaborate on any projects
 - 📫 How to reach me ...
